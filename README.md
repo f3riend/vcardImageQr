@@ -8,6 +8,9 @@ When I was at the end of high school, I was doing an internship for school and I
 - It will be better if you choose square photos
 
 
+![Jhon Doe](https://github.com/f3riend/vcardImageQr/blob/main/ryjsfjmqkf.gif)
+
+
 
 **Should be installed: **
 ```bash
