@@ -12,7 +12,7 @@ When I was at the end of high school, I was doing an internship for school and I
 
 
 
-**Should be installed: **
+**Should be installed:**
 ```bash
 pip install qrcode-artistic
 pip install segno
