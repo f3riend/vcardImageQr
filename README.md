@@ -6,3 +6,12 @@ When I was at the end of high school, I was doing an internship for school and I
 **Important:**
 - Phone number + country code and the rest
 - It will be better if you choose square photos
+
+
+
+**Should be installed: **
+```bash
+pip install qrcode-artistic
+pip install segno
+pip install tkinter
+```
